@@ -1,4 +1,4 @@
-Bu proje, Bash'in (Bourne Again Shell) basitleştirilmiş bir versiyonunu C dilinde yeniden oluşturmayı amaçlayan bir **42 School** projesidir. Süreç yönetimi, dosya tanımlayıcıları (file descriptors) ve sistem çağrıları (system calls) üzerine yoğun bir çalışma içerir.
+Bu proje, Bash'in (Bourne Again Shell) basitleştirilmiş bir versiyonunu C dilinde yeniden oluşturmayı amaçlayan bir projedir. Süreç yönetimi, dosya tanımlayıcıları (file descriptors) ve sistem çağrıları (system calls) üzerine yoğun bir çalışma içerir.
 
 
 
